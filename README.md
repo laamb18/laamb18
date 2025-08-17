@@ -11,8 +11,6 @@
 ## Sobre mí  
 - 💻 Desarrollador **Full Stack Web**  
 - 🌱 Actualmente explorando **DevOps y Cloud**  
-- 🎯 En busca de crear experiencias digitales con estética futurista  
-
 ---
 
 ## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30"/> Tech & Stats  
