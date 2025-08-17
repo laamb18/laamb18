@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+ Hola, soy <span style="color:#a020f0;">laamb</span>
+</h1>
 
-<!--
-**laamb18/laamb18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9d4edd&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Cyberpunk+Style+Coding;Siempre+aprendiendo+y+creando" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí  
+- 💻 Desarrollador **Full Stack Web**  
+- 🌱 Actualmente explorando **DevOps y Cloud**  
+- 🎯 En busca de crear experiencias digitales con estética futurista  
+
+---
+
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30"/> Tech & Stats  
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,python,django,fastapi,mysql,docker,git,github,linux&perline=5" width="420"/>
+</p>
+</td>
+
+<td align="center" width="50%">
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Estadísticas  
+<p>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Gráfica 3D de contribuciones" width="500">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=laamb&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d4edd&icon_color=ff00ff" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laamb&layout=compact&theme=tokyonight&hide_border=true&title_color=9d4edd" height="170">
+</p>
+
+</td>
+</tr>
+</table>
