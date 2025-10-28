@@ -1,5 +1,5 @@
 <h1 align="center">
- Hola, soy <span style="color:#a020f0;">laamb</span>
+ Hola, soy <span style="color:#a020f0;">balam</span>
 </h1>
 
 <p align="center">
